@@ -1,1 +1,1 @@
-teste
+Esta é uma imagem basica do python 2.3 onde ja vem instalado as bibliotecas pysqm, requests e beautifulsoup4. Além de vir com um makefile que levanta um container na pasta atual com o python 2.3 fazendo um link com o mysql 5.5, neste repositorio também tem um arquivo mysql-data compactada que é um arquivo que deve ser descompactado que contém os arquivos basicos do mysql e que será espelhado para dentro do container assim todas as configurações que forem aplicadas no mysql serão salvas nesta pasta que esta fora do container.
